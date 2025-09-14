@@ -1,4 +1,9 @@
 # Eliminate-Black-through-black
-python pillow to ps
-friendly GUI
-![Alt text for the image](example show/A1.png)
+
+
+Repo for .jsx scripts for Adobe Photoshop
+
+To install scripts place the .jsx file in the Scripts folder (Photoshop CS/Presets/Scripts) and restart the application. 
+The script appears in the Scripts menu (File > Scripts).
+
+Scripts are tested only on Mac OSX.
