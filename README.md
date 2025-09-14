@@ -1,6 +1,5 @@
 # Eliminate-Black-through-black
 
-====================
 
 Desaturation code created using Python Pillow.  
 
