@@ -1,4 +1,4 @@
-# Eliminate-Black-through-black
+# Eliminate-Black-through-math-HSB
 
 
 Desaturation code created using Python Pillow.  
